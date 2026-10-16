@@ -25,8 +25,6 @@ Administration · Virtualisierung · Systemintegration · Netzwerktechnik · Fra
 
 - **[OPNsense VLAN-Segmentierung](https://github.com/matijatasic/opnsense-vlan-segmentierung)**
   Ein flaches Netz in getrennte Zonen (Privat, IoT, Gäste, Lab) aufgeteilt, mit Firewall-Regelwerk nach dem Prinzip „so wenig wie nötig“, geplant, umgesetzt und vollständig dokumentiert.
-- **Proxmox-Ceph-Cluster** (beruflicher Projektauftrag, 2026)
-  Ablösung einer Hyper-V-Umgebung durch einen hochverfügbaren 3-Node-Cluster mit getrennten 10-GbE-Netzen für Ceph und Management.
 
 
 ---
