@@ -23,6 +23,9 @@ Administration · Virtualisierung · Systemintegration · Netzwerktechnik · Fra
 
 #### Projekte
 
+- **[Proxmox Backup Server](https://github.com/matijatasic/proxmox-backup-server)**
+  Eigener Backup-Server mit ZFS-Mirror: nächtliche Sicherung aller VMs und der Host-Konfiguration, Überwachung per Mail und ein Restore, der im laufenden Netz getestet wurde.
+
 - **[OPNsense VLAN-Segmentierung](https://github.com/matijatasic/opnsense-vlan-segmentierung)**
   Ein flaches Netz in getrennte Zonen (Privat, IoT, Gäste, Lab) aufgeteilt, mit Firewall-Regelwerk nach dem Prinzip „so wenig wie nötig“, geplant, umgesetzt und vollständig dokumentiert.
 
